@@ -142,5 +142,4 @@
       }
    }      
   ```
-
 12. Download and install [Postman](https://www.postman.com/) and test ALL the endpoints of your API.
