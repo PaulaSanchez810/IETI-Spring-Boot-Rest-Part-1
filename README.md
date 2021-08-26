@@ -144,17 +144,17 @@
   ```
 12. Download and install [Postman](https://www.postman.com/) and test ALL the endpoints of your API.
 
-## Construido con 🛠️
+## Built with 🛠️
 
 * Java 13
 * JUnit
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [Maven](https://maven.apache.org/) - Dependency manager
 
 
-## Autor ✒️
+## Author ✒️
 
 * Paula Andrea Guevara Sánchez
 
-## Licencia 📄
+## License 📄
 
-Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/LICENSE.txt) 
+This project is licensed under the GNU General Public License - [LICENSE](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/LICENSE.txt) 
